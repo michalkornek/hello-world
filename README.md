@@ -3,11 +3,10 @@ First repository (tutorial)
 
 Test string
 
-1234567890
+12345
 
 qwertyuiop
 asdfghjkl
-zxcvbnm
 
 How about a tab character:	<- till here
 							<- and here
@@ -16,4 +15,4 @@ How about a tab character:	<- till here
 			
 			End of test
 
-Why is the end of test looking differently?
+Why is the above line looking differently?
